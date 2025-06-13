@@ -3,7 +3,7 @@ package com.keepa.books.dto;
 import lombok.Data;
 
 @Data
-public class FbaFees {
+public class FbaFeesDto {
     private Integer pickAndPack;
     private Integer storage;
     private Integer weightHandling;

@@ -3,7 +3,7 @@ package com.keepa.books.dto;
 import lombok.Data;
 
 @Data
-public class UnitCount {
+public class UnitCountDto {
     private Integer count;
     private String unit;
 }

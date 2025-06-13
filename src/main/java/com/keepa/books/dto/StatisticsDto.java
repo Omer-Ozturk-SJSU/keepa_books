@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Map;
 
 @Data
-public class Statistics {
+public class StatisticsDto {
     private Integer current;
     private Integer avg;
     private Integer avg30;

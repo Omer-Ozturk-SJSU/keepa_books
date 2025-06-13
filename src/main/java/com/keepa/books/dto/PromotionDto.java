@@ -3,7 +3,7 @@ package com.keepa.books.dto;
 import lombok.Data;
 
 @Data
-public class Promotion {
+public class PromotionDto {
     private Integer type;
     private Integer value;
     private Integer startDate;
